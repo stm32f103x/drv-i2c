@@ -11,4 +11,5 @@
         }
       },
       "terminal.integrated.defaultProfile.windows": "Cmder",
+      "cortex-debug.variableUseNaturalFormat": false,
 }
